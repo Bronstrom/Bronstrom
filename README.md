@@ -54,7 +54,7 @@ I'm passionate about writing code and making my own ideas come to life. I've bee
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### Some cool projects I've worked on
+### Some cool projects I've worked on 🚀
 
 #### College Projects
 1. https://github.com/Bronstrom/ufotomi
