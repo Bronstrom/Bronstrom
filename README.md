@@ -64,8 +64,8 @@ I'm passionate about writing code and making my own ideas come to life. I've bee
 
 <p align="center">
 <a href="https://bradleyfellstrom.com/"><img src="https://img.shields.io/badge/Bradley_Fellstrom-%2300489C?style=for-the-badge&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/bradleyfellstrom/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.facebook.com/bradley.fellstrom.7"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bradleyfellstrom/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/bradley.fellstrom.7"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </p>
 
 
